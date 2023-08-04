@@ -3,6 +3,7 @@ import random
 
 
 
+print(a)
 
 @Error_Handler
 def random_code(custom_note):
