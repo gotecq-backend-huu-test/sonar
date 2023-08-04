@@ -14,3 +14,4 @@ def random_code(custom_note):
 
 result = random_code("Hello")
 print(result)
+a =+ 3
